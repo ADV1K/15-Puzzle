@@ -12,4 +12,3 @@ $ git clone https://github.com/ADV1K/15-Puzzle
 $ cd 15-Puzzle
 $ python 15puzzle.py
 ```
-Or if you are on Window then you could just download the game from here: 
